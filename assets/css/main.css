@@ -1,0 +1,30 @@
+body {
+	background-color: #bcead5;
+	text-align: center;
+}
+
+.container {
+	gap: 120px;
+	display: flex;
+	height: 60vh;
+	width: 100vw;
+	justify-content: center;
+	align-items: center;
+}
+
+.conColor {
+	display: flex;
+	align-items: center;
+	border: 2px solid black;
+	border-radius: 5px;
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	font-size: 1.4rem;
+}
+
+.teclaColor {
+	color: aliceblue;
+	background-color: rgb(251, 155, 1);
+	font-weight: bold;
+}
